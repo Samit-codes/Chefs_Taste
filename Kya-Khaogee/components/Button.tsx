@@ -5,6 +5,7 @@ interface ButtonProps {
     onClick?: MouseEventHandler<HTMLButtonElement>;
     isTeal?: boolean; // Add a new prop for specifying whether the button should be teal or not
     type?: 'button' | 'submit' | 'reset' | undefined;
+    className?: string;
 }
 
 const Button: React.FC<ButtonProps> = ({ name, onClick, isTeal, type }) => {

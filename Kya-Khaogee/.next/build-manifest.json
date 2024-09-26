@@ -1,36 +1,46 @@
 {
   "polyfillFiles": [
-    "static/chunks/polyfills.js"
+    "static/chunks/polyfills-42372ed130431b0a.js"
   ],
-  "devFiles": [
-    "static/chunks/react-refresh.js"
-  ],
+  "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/development/_buildManifest.js",
-    "static/development/_ssgManifest.js"
+    "static/QvyJfUvs-L9QvYgc_uGT3/_buildManifest.js",
+    "static/QvyJfUvs-L9QvYgc_uGT3/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
     "/": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-49c6cecf1f6d5795.js",
+      "static/chunks/main-541ae0dd879123ba.js",
+      "static/chunks/61-d28941a0a0560a13.js",
+      "static/chunks/pages/index-fafbb51326e63f67.js"
     ],
     "/_app": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_app.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-49c6cecf1f6d5795.js",
+      "static/chunks/main-541ae0dd879123ba.js",
+      "static/css/d826650000e064f8.css",
+      "static/chunks/pages/_app-a7e2d84213bc89e5.js"
     ],
     "/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/_error.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-49c6cecf1f6d5795.js",
+      "static/chunks/main-541ae0dd879123ba.js",
+      "static/chunks/pages/_error-77823ddac6993d35.js"
     ],
     "/get-started": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/get-started.js"
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-49c6cecf1f6d5795.js",
+      "static/chunks/main-541ae0dd879123ba.js",
+      "static/chunks/pages/get-started-c571d0cfa9bd0122.js"
+    ],
+    "/recipes/[id]": [
+      "static/chunks/webpack-8fa1640cc84ba8fe.js",
+      "static/chunks/framework-49c6cecf1f6d5795.js",
+      "static/chunks/main-541ae0dd879123ba.js",
+      "static/chunks/pages/recipes/[id]-b98ff8242c59f9a4.js"
     ]
   },
   "ampFirstPages": []
